@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio repos\\Host tester\\Host tester\\Host tester.csproj",
+      "projectUniqueName": "D:\\visual studio repos\\cs-ping-hosts\\Host tester\\Host tester.csproj",
       "projectName": "Host tester",
-      "projectPath": "D:\\visual studio repos\\Host tester\\Host tester\\Host tester.csproj",
+      "projectPath": "D:\\visual studio repos\\cs-ping-hosts\\Host tester\\Host tester.csproj",
       "packagesPath": "C:\\Users\\ncg\\.nuget\\packages\\",
-      "outputPath": "D:\\visual studio repos\\Host tester\\Host tester\\obj\\",
+      "outputPath": "D:\\visual studio repos\\cs-ping-hosts\\Host tester\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

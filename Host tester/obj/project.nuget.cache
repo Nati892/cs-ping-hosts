@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pRKdE0R1eeLa3mwHhfjGXJ2iVJLRAbzcZj5UtAu+JUXKeQ3kBXjQAyb7ZaoUx9PUZYHCOote/+OcZI/mPSu9A==",
+  "dgSpecHash": "5GEvM8p7DTKE0GdQDzztG/EzcdSOCGWDA/IV5Q878dbvzmW/bXorSRmOuS7h3yGddTVBf0YbYWhTxrijFCzrXg==",
   "success": true,
-  "projectFilePath": "D:\\visual studio repos\\Host tester\\Host tester\\Host tester.csproj",
+  "projectFilePath": "D:\\visual studio repos\\cs-ping-hosts\\Host tester\\Host tester.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

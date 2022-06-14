@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-D:\visual studio repos\Host tester\Host tester\obj\Debug\net5.0-windows\
+D:\visual studio repos\cs-ping-hosts\Host tester\obj\Debug\net5.0-windows\
 Host_tester
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\visual studio repos\Host tester\Host tester\App.xaml
+D:\visual studio repos\cs-ping-hosts\Host tester\App.xaml
 11407045341
 
 91565402640
