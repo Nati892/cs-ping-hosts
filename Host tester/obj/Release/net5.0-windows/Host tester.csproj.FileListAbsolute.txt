@@ -1,0 +1,21 @@
+D:\visual studio repos\Host tester\Host tester\bin\Release\net5.0-windows\Host tester.exe
+D:\visual studio repos\Host tester\Host tester\bin\Release\net5.0-windows\Host tester.deps.json
+D:\visual studio repos\Host tester\Host tester\bin\Release\net5.0-windows\Host tester.runtimeconfig.json
+D:\visual studio repos\Host tester\Host tester\bin\Release\net5.0-windows\Host tester.runtimeconfig.dev.json
+D:\visual studio repos\Host tester\Host tester\bin\Release\net5.0-windows\Host tester.dll
+D:\visual studio repos\Host tester\Host tester\bin\Release\net5.0-windows\Host tester.pdb
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.csproj.AssemblyReference.cache
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\MainWindow.baml
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\MainWindow.g.cs
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\App.g.cs
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester_MarkupCompile.cache
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.g.resources
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.AssemblyInfoInputs.cache
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.AssemblyInfo.cs
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.csproj.CoreCompileInputs.cache
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.dll
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\refint\Host tester.dll
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.pdb
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\Host tester.genruntimeconfig.cache
+D:\visual studio repos\Host tester\Host tester\obj\Release\net5.0-windows\ref\Host tester.dll
